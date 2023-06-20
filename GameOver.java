@@ -19,6 +19,7 @@ public class GameOver extends World
         super(700, 500, 1); 
         prepare();
     }
+    
     /**
      * Prepare the world for the start of the program.
      * That is: create the initial objects and add them to the world.
@@ -29,5 +30,6 @@ public class GameOver extends World
         addObject(backToMainButton,191,386);
         PlayAgainButton playAgainButton = new PlayAgainButton();
         addObject(playAgainButton,510,388);
+        backToMainButton.setLocation(350,371);
     }
 }
