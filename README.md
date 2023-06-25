@@ -14,4 +14,5 @@ Pemain harus mengarahkan mermaid untuk mengumpulkan sampah dan mencapai target y
 Hindari benda berbahaya seperti botol racun, jaring, dan sampah, karena akan mengurangi score atau health point.
 Selesaikan semua misi utama dan misi bonus untuk menyelesaikan permainan.
 
-Terima kasih telah membaca dan selamat bermain Save the Oceans!
+##
+Terima kasih telah membaca dan selamat bermain Save the Oceans! 🌊✨
