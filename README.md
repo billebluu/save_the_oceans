@@ -1,6 +1,6 @@
 # Save the Oceans
 
-![image](https://github.com/billebluu/save_the_oceans/assets/87643077/8ee60388-33d5-4a6e-badf-5e608340cf95)
+![SISTEM PEMINJAMAN RUANGAN (10)](https://github.com/nabilland/save-the-oceans/assets/87643077/61a64a84-c7db-4850-a53f-f38b9ab8d808)
 
 ## Deskripsi
 Save the Oceans adalah sebuah game yang dibuat menggunakan Greenfoot. Game ini dapat dimainkan di website Greenfoot dan dibuat menggunakan bahasa pemrograman Java dengan konsep pemrograman berorientasi objek (object-oriented programming). Game ini bertujuan untuk memberikan edukasi kepada pemain tentang pentingnya menjaga lingkungan, terutama perairan, karena volume sampah di perairan yang terus meningkat akibat manajemen sampah yang buruk di daratan. Keadaan ini berdampak negatif pada ekosistem laut dan kehidupan laut secara keseluruhan.
