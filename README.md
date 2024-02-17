@@ -2,17 +2,19 @@
 
 ![SISTEM PEMINJAMAN RUANGAN (10)](https://github.com/nabilland/save-the-oceans/assets/87643077/61a64a84-c7db-4850-a53f-f38b9ab8d808)
 
-## Deskripsi
-Save the Oceans adalah sebuah game yang dibuat menggunakan Greenfoot. Game ini dapat dimainkan di website Greenfoot dan dibuat menggunakan bahasa pemrograman Java dengan konsep pemrograman berorientasi objek (object-oriented programming). Game ini bertujuan untuk memberikan edukasi kepada pemain tentang pentingnya menjaga lingkungan, terutama perairan, karena volume sampah di perairan yang terus meningkat akibat manajemen sampah yang buruk di daratan. Keadaan ini berdampak negatif pada ekosistem laut dan kehidupan laut secara keseluruhan.
+## Description
+Save the Oceans is a game created using Greenfoot. This game can be played on the Greenfoot website and is developed using the Java programming language with the concept of object-oriented programming. The game aims to educate players about the importance of environmental conservation, especially in water bodies, due to the increasing volume of waste in water caused by poor waste management on land. This situation has a negative impact on the marine ecosystem and marine life as a whole.
 
-Pemain akan mengendalikan karakter utama, yaitu seorang putri duyung (mermaid), dan harus mengumpulkan sampah serta mencapai target yang ditentukan dalam setiap misi. Terdapat 4 misi utama dan 2 misi bonus yang harus diselesaikan oleh pemain. Namun, pemain harus berhati-hati untuk menghindari benda-benda berbahaya seperti botol racun, jaring, dan sampah agar tidak kehilangan score atau health point.
+Save the Oceans features educational content about the most commonly found marine litter, a player's guide, an interesting backstory, selectable characters, and challenging missions.
 
-## Cara Bermain
-1. Kunjungi [Save the Oceans](https://www.greenfoot.org/scenarios/30073) untuk memainkan game.
-2. Gunakan keyboard panah kiri (←) dan panah kanan (→) untuk menggerakkan karakter mermaid ke kiri dan kanan.
-Pemain harus mengarahkan mermaid untuk mengumpulkan sampah dan mencapai target yang diberikan dalam setiap misi.
-Hindari benda berbahaya seperti botol racun, jaring, dan sampah, karena akan mengurangi score atau health point.
-Selesaikan semua misi utama dan misi bonus untuk menyelesaikan permainan.
+Players will control the main character, a mermaid, and must collect trash and reach specified targets in each mission. There are 4 main missions and 2 bonus missions that players need to complete. However, players must be cautious to avoid hazardous objects, poison bottles and nets, to prevent the loss of health points or a game over.
+
+## How to Play
+1. Visit [Save the Oceans](https://www.greenfoot.org/scenarios/30073) to play the game.
+2. Use the left arrow (←) and right arrow (→) keys to move the mermaid character left and right.
+3. Players need to guide the mermaid to collect trash and reach the targets given in each mission.
+4. Avoid hazardous objects like poison bottles, nets, and trash, as they will reduce the score or health points.
+5. Complete all main and bonus missions to finish the game.
 
 ##
-Terima kasih telah membaca dan selamat bermain Save the Oceans! 🌊✨
+Thank you for reading and enjoy playing Save the Oceans! 🌊✨
